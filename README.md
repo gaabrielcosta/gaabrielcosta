@@ -2,7 +2,7 @@
 
 # Gabriel Rodrigues
 
-**Front-end Developer in progress · Building things on the web**
+**Full Stack Developer in progress · Building things on the web**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=HTML+%26+CSS+%F0%9F%8E%A8;JavaScript+%F0%9F%9A%80;React+%26+TypeScript+%E2%9A%A1;Always+learning...)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
 
 ## 🇺🇸 About Me
 
-I'm a front-end developer in the making, focused on building functional and well-structured web interfaces. I've been around computers since 1999 — technology has always been part of who I am. Now I'm turning that into a career.
+I'm a full stack developer in the making, focused on building functional and well-structured web interfaces. I've been around computers since 1999 — technology has always been part of who I am. Now I'm turning that into a career.
 
 Currently studying at **freeCodeCamp** and building real projects to grow my portfolio.
 
@@ -24,7 +24,7 @@ Outside of code, you'll find me listening to music, thinking about new business 
 
 ## 🇧🇷 Sobre mim
 
-Sou desenvolvedor front-end em construção, com foco em criar interfaces web funcionais e bem estruturadas. Uso computadores desde 1999 — então a afinidade com tecnologia sempre esteve no meu DNA. Hoje estou transformando isso em carreira.
+Sou desenvolvedor full stack em construção, com foco em criar interfaces web funcionais e bem estruturadas. Uso computadores desde 1999 — então a afinidade com tecnologia sempre esteve no meu DNA. Hoje estou transformando isso em carreira.
 
 Atualmente estudando pela **freeCodeCamp** e construindo projetos reais para consolidar meu portfólio.
 
